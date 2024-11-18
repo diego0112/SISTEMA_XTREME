@@ -1,7 +1,7 @@
 let perfilUsuario = JSON.parse(localStorage.getItem('perfil'));
 if(perfilUsuario != null)
     document.getElementById("usuario").innerHTML = `<img
-    src="https://c0.klipartz.com/pngpicture/924/414/gratis-png-ilustracion-de-mujer-perfil-de-usuario-icono-de-mujer-avatar-de-chica.png"
+    src="https://i.pinimg.com/236x/2f/02/ba/2f02ba39bd7c8f5cabddd18a4b44afae.jpg"
     width="40px"
     height="40px"
     class="rounded-circle"
